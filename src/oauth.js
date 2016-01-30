@@ -78,7 +78,7 @@ function cordovaOauth(
     rally: $rally.signin,
     familySearch: $familySearch.signin,
     envato: $envato.signin,
-    weibo: $weibo.sigin,
+    weibo: $weibo.signin,
     jawbone: $jawbone.signin,
     untappd: $untappd.signin,
     dribble: $dribble.signin,
